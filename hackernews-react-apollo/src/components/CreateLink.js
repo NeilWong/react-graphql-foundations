@@ -1,4 +1,4 @@
-import React, { Component, useState } from "react";
+import React, { useState } from "react";
 import { Mutation } from "react-apollo";
 import gql from "graphql-tag";
 
