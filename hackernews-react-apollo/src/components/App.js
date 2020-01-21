@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "./Header";
 import LinkList from "./LinkList";
-import CreateLink from "./CreateLink";
+import { CreateLink } from "./CreateLink";
 
 import "../styles/App.css";
 import { Route, Switch } from "react-router";
